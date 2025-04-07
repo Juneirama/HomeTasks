@@ -16,32 +16,32 @@ class Program
                 isNumber = false;
                 break;
             }
-
-            if (isNumber)
+        }
+        
+        if (isNumber)
+        {
+            int number = int.Parse(input);
+            if (number < 1 || number > 1000)
             {
-                int number = int.Parse(input);
-                if (number < 1 || number > 1000)
-                {
-                    Console.WriteLine($"Неверное число");
-                }
-                else
-                {
-                    string result = ArabicToRoman(number);
-                    Console.WriteLine(result);
-                }
+                Console.WriteLine($"Неверное число");
             }
             else
             {
-                int result = RomanToArabic(input);
+                string result = ArabicToRoman(number);
                 Console.WriteLine(result);
-                if (result >= 0)
-                {
-                    Console.WriteLine(result);
-                }
-                else
-                {
-                    Console.WriteLine($"Неверное число");
-                }
+            }
+        }
+        else
+        {
+            int result = RomanToArabic(input);
+            Console.WriteLine(result);
+            if (result >= 0)
+            {
+                Console.WriteLine(result);
+            }
+            else
+            {
+                Console.WriteLine($"Неверное число");
             }
         }
     }
