@@ -1,0 +1,15 @@
+/Users/asel/RiderProjects/StudyTask/Fourth task/bin/Debug/net6.0/Fourth task
+/Users/asel/RiderProjects/StudyTask/Fourth task/bin/Debug/net6.0/Fourth task.deps.json
+/Users/asel/RiderProjects/StudyTask/Fourth task/bin/Debug/net6.0/Fourth task.runtimeconfig.json
+/Users/asel/RiderProjects/StudyTask/Fourth task/bin/Debug/net6.0/Fourth task.dll
+/Users/asel/RiderProjects/StudyTask/Fourth task/bin/Debug/net6.0/Fourth task.pdb
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.csproj.AssemblyReference.cache
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.AssemblyInfoInputs.cache
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.AssemblyInfo.cs
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.csproj.CoreCompileInputs.cache
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.dll
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/refint/Fourth task.dll
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.pdb
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/Fourth task.genruntimeconfig.cache
+/Users/asel/RiderProjects/StudyTask/Fourth task/obj/Debug/net6.0/ref/Fourth task.dll
