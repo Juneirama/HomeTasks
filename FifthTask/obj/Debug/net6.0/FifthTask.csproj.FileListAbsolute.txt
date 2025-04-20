@@ -1,0 +1,15 @@
+/Users/asel/RiderProjects/StudyTask/FifthTask/bin/Debug/net6.0/FifthTask
+/Users/asel/RiderProjects/StudyTask/FifthTask/bin/Debug/net6.0/FifthTask.deps.json
+/Users/asel/RiderProjects/StudyTask/FifthTask/bin/Debug/net6.0/FifthTask.runtimeconfig.json
+/Users/asel/RiderProjects/StudyTask/FifthTask/bin/Debug/net6.0/FifthTask.dll
+/Users/asel/RiderProjects/StudyTask/FifthTask/bin/Debug/net6.0/FifthTask.pdb
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.csproj.AssemblyReference.cache
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.AssemblyInfoInputs.cache
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.AssemblyInfo.cs
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.csproj.CoreCompileInputs.cache
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.dll
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/refint/FifthTask.dll
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.pdb
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/FifthTask.genruntimeconfig.cache
+/Users/asel/RiderProjects/StudyTask/FifthTask/obj/Debug/net6.0/ref/FifthTask.dll

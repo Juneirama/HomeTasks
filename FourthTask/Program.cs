@@ -1,4 +1,7 @@
-﻿namespace FourthTask
+﻿using System.Collections.Concurrent;
+using System.Globalization;
+
+namespace FourthTask
 {
         class Program
         {
@@ -26,8 +29,24 @@
                 ArrayHelper.AddLastElement(newNumber);
                 Console.WriteLine("Обновленный массив " + string.Join(",", ArrayHelper.MyArray));
                 
-            }
+                // Сортировка массива по возрастанию
+                ArrayHelper.SortingAsc();
+                Console.WriteLine("Отсортированный массив: " + string.Join(",", ArrayHelper.MyArray));
                 
+                
+                // Сортировка массива по убыванию
+                ArrayHelper.SortingDesc();
+                Console.WriteLine("Отсортированный массив: " + string.Join(",", ArrayHelper.MyArray));
+                
+                // Вставка элемента по индексу
+                Console.WriteLine("Введите цифру для вставки");
+                int element = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Укажите место массива для вставки в диапазоне от 0 до " + ArrayHelper.ArrayLength);
+                int newIndex = Convert.ToInt32(Console.ReadLine());
+                ArrayHelper.AddElementByIndex(element, newIndex); 
+                Console.WriteLine("Массив с новым вставленным индексом: " );
+            }
+
         }
         
 }
