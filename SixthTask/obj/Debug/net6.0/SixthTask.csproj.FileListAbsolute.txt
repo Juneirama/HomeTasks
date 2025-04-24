@@ -1,0 +1,15 @@
+/Users/asel/RiderProjects/StudyTask/SixthTask/bin/Debug/net6.0/SixthTask
+/Users/asel/RiderProjects/StudyTask/SixthTask/bin/Debug/net6.0/SixthTask.deps.json
+/Users/asel/RiderProjects/StudyTask/SixthTask/bin/Debug/net6.0/SixthTask.runtimeconfig.json
+/Users/asel/RiderProjects/StudyTask/SixthTask/bin/Debug/net6.0/SixthTask.dll
+/Users/asel/RiderProjects/StudyTask/SixthTask/bin/Debug/net6.0/SixthTask.pdb
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.csproj.AssemblyReference.cache
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.AssemblyInfoInputs.cache
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.AssemblyInfo.cs
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.csproj.CoreCompileInputs.cache
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.dll
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/refint/SixthTask.dll
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.pdb
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/SixthTask.genruntimeconfig.cache
+/Users/asel/RiderProjects/StudyTask/SixthTask/obj/Debug/net6.0/ref/SixthTask.dll
